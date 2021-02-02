@@ -12,7 +12,7 @@ header:
     - label: Home
       url: /
     - label: Research
-      url: /generic/
+      url: /research/
     - label: Publication
       url: /elements/
     - label: Ideas
