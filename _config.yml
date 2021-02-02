@@ -16,7 +16,7 @@ header:
     - label: Publication
       url: /publication/
     - label: Ideas
-      url: /ipsum/
+      url: /ideas/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
